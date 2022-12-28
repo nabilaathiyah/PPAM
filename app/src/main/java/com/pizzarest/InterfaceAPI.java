@@ -1,4 +1,4 @@
-package com.kempes.pizzarest;
+package com.pizzarest;
 import java.util.List;
 
 import retrofit2.Call;
