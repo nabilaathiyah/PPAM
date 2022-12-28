@@ -1,6 +1,6 @@
-package com.kempes.pizzarest;
+package com.pizzarest;
 
-import static com.kempes.pizzarest.R.drawable.*;
+import static com.pizzarest.R.drawable.*;
 
 
 import androidx.appcompat.app.AppCompatActivity;
