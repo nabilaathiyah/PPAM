@@ -1,4 +1,4 @@
-package com.kempes.pizzarest;
+package com.pizzarest;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
