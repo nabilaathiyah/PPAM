@@ -1,4 +1,4 @@
-package com.kempes.pizzarest;
+package com.pizzarest;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
