@@ -1,72 +1,13 @@
+## Nama         : Nabila Nur Athiyah
+## Kelas        : Teknik Informatika A
+## Mata Kuliah  : Prak. Pengembangan Aplikasi Mobile
+
 # Pizza-Restaurant-Apps
-Tugas ini untuk melengkapi UAS Mata Kuliah Praktikum Pengembangan Aplikasi Mobile. <br/>
+<img width="176" alt="image" src="https://user-images.githubusercontent.com/101244178/209785442-fc649e2d-e6b5-4ad8-b082-8ba44d5e8619.png">
+<img width="176" alt="image" src="https://user-images.githubusercontent.com/101244178/209785671-e620e1ac-a35b-4754-9aa3-8612dff3307a.png">
+<img width="175" alt="image" src="https://user-images.githubusercontent.com/101244178/209785722-0e4ac731-a6f9-459b-a5f3-c44f4845a423.png">
+<img width="176" alt="image" src="https://user-images.githubusercontent.com/101244178/209785758-06ec0d8b-0172-4935-95f1-c76f625002d6.png">
+<img width="177" alt="image" src="https://user-images.githubusercontent.com/101244178/209785781-c7d4e19c-cb07-4ea4-bfb9-98b7a5ecd62f.png">
+<img width="175" alt="image" src="https://user-images.githubusercontent.com/101244178/209785818-4c3aa29c-a256-4dd6-bc11-030fae0446a2.png">
 
-## Profile
-Nama : Muhammad Rizky Maulana Putra Suhaemi <br/>
-NIM : 1207050082 <br/>
-Dosen Pengampu : Aldy Rialdy Atmadja, M.T
 
-### Menambahkan API pada app Pizza Resto by : Kempes
-```markdown
-[
-{
-"id": 1,
-"price": "66000",
-"number": "1",
-"details": "Cocok bagi anda yang ingin merasakan pizza original dengan taburan keju dan daging asap yang lezat",
-"foodName": "Pepperoni Pizza"
-},
-{
-"id": 2,
-"price": "50000",
-"number": "2",
-"details": "Cocok bagi anda yang ingin merasakan spaghetti original dengan bumbu yang oriental",
-"foodName": "Spaghetti"
-},
-{
-"id": 3,
-"price": "35000",
-"number": "3",
-"details": "Cocok bagi anda yang ingin merasakan kelembutan burger berlapiskan keju, sayuran dan daging yang tebal",
-"foodName": "Burger"
-},
-{
-"id": 4,
-"price": "100000",
-"number": "4",
-"details": "Cocok bagi anda yang ingin merasakan lezatnya daging steak dipadukan dengan kentang yang lezat",
-"foodName": "Steak"
-},
-{
-"id": 5,
-"price": "20000",
-"number": "5",
-"details": "Cocok bagi anda yang ingin merasakan lezatnya kentang goreng",
-"foodName": "French Fries"
-},
-{
-"id": 6,
-"price": null,
-"number": "",
-"details": null,
-"foodName": null
-}
-]
-```
-#### Tampilan Home
-![Image of Home](https://github.com/kempess/Pizza-Restaurant-App-v2/blob/master/img/home1.jpeg)
-![Image of Home](https://github.com/kempess/Pizza-Restaurant-App-v2/blob/master/img/home2.jpeg)
-![Image of Home](https://github.com/kempess/Pizza-Restaurant-App-v2/blob/master/img/home3.jpeg)
-
-### Tampilan Lokasi
-![Image of loc](https://github.com/kempess/Pizza-Restaurant-App-v2/blob/master/img/lokasi_tempat.jpeg)
-
-### Tampilan Map
-![Image of Place](https://github.com/kempess/Pizza-Restaurant-App-v2/blob/master/img/map.jpeg)
-
-#### Tampilan Katalog
-![Image of Cotalogue](https://github.com/kempess/Pizza-Restaurant-App-v2/blob/master/img/katalog.jpeg)
-
-#### Tampilan Pesanan
-![Image of order](https://github.com/kempess/Pizza-Restaurant-App-v2/blob/master/img/info_pesanan.jpeg)
-![Image of order_alert](https://github.com/kempess/Pizza-Restaurant-App-v2/blob/master/img/alert_info_pesanan.jpeg)
