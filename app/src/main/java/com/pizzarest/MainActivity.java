@@ -1,4 +1,4 @@
-package com.kempes.pizzarest;
+package com.pizzarest;
 
 import androidx.appcompat.app.AppCompatActivity;
 
